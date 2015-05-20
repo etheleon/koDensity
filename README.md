@@ -11,4 +11,4 @@ Perl
 Javascript
 * Highcharts
 
-![Screenshot](“assets/screenshot.jpg”)
+![Screenshot](“assets/screenshot.png”)
